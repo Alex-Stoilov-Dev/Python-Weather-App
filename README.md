@@ -21,7 +21,6 @@ This is a simple desktop weather application built using Python's `tkinter` GUI 
 - Python 3.x
 - Packages:
   - `requests`
-  - `beautifulsoup4` (imported but not used currently)
   - `python-dotenv`
   - `tkinter` (usually comes with Python)
 
