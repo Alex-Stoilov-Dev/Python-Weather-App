@@ -17,6 +17,7 @@ This is a simple desktop weather application built using Python's `tkinter` GUI 
 
 ## Requirements
 
+###### Requirements can also be found in the requirements.txt file
 - Python 3.x
 - Packages:
   - `requests`
